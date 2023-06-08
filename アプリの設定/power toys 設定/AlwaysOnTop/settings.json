@@ -1,0 +1,40 @@
+{
+  "name": "AlwaysOnTop",
+  "properties": {
+    "hotkey": {
+      "value": {
+        "win": true,
+        "ctrl": true,
+        "alt": false,
+        "shift": false,
+        "code": 84,
+        "key": ""
+      }
+    },
+    "frame-enabled": {
+      "value": true
+    },
+    "frame-thickness": {
+      "value": 5
+    },
+    "frame-color": {
+      "value": "#FFFF7F00"
+    },
+    "frame-accent-color": {
+      "value": false
+    },
+    "sound-enabled": {
+      "value": true
+    },
+    "do-not-activate-on-game-mode": {
+      "value": true
+    },
+    "excluded-apps": {
+      "value": ""
+    },
+    "round-corners-enabled": {
+      "value": true
+    }
+  },
+  "version": "0.0.1"
+}

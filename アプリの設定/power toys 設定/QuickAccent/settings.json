@@ -1,0 +1,20 @@
+{
+  "name": "QuickAccent",
+  "properties": {
+    "activation_key": 2,
+    "toolbar_position": {
+      "value": "Top center"
+    },
+    "input_time_ms": {
+      "value": 200
+    },
+    "selected_lang": {
+      "value": "ALL"
+    },
+    "excluded_apps": {
+      "value": "FortniteClient-Win64-Shipping.exe\rFortniteClient-Win64-Shipping_BE.exe\rFortniteClient-Win64-Shipping_EAC.exe\rFortniteLauncher.exe"
+    },
+    "show_description": false
+  },
+  "version": "1.0"
+}

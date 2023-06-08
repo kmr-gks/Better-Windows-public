@@ -1,0 +1,36 @@
+{
+  "name": "FindMyMouse",
+  "properties": {
+    "activation_method": {
+      "value": 0
+    },
+    "do_not_activate_on_game_mode": {
+      "value": true
+    },
+    "background_color": {
+      "value": "#000000"
+    },
+    "spotlight_color": {
+      "value": "#FFFFFF"
+    },
+    "overlay_opacity": {
+      "value": 19
+    },
+    "spotlight_radius": {
+      "value": 50
+    },
+    "animation_duration_ms": {
+      "value": 50
+    },
+    "spotlight_initial_zoom": {
+      "value": 9
+    },
+    "excluded_apps": {
+      "value": "FortniteClient-Win64-Shipping.exe\rFortniteClient-Win64-Shipping_BE.exe\rFortniteClient-Win64-Shipping_EAC.exe\rFortniteLauncher.exe\r"
+    },
+    "shaking_minimum_distance": {
+      "value": 1000
+    }
+  },
+  "version": "1.0"
+}

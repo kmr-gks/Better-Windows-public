@@ -1,0 +1,37 @@
+{
+  "CreateDateTime": "2023-05-27 10:35:37Z",
+  "Version": "v0.70.0",
+  "UpdatedFiles": [
+    "\\settings.json",
+    "\\Keyboard Manager\\default.json",
+    "\\Peek\\settings.json"
+  ],
+  "BackupSource": "PAVILION-REFS2",
+  "UnchangedFiles": [
+    "\\AlwaysOnTop\\settings.json",
+    "\\Awake\\settings.json",
+    "\\ColorPicker\\settings.json",
+    "\\FancyZones\\custom-layouts.json",
+    "\\FancyZones\\layout-hotkeys.json",
+    "\\FancyZones\\layout-templates.json",
+    "\\FancyZones\\settings.json",
+    "\\File Explorer\\settings.json",
+    "\\File Locksmith\\file-locksmith-settings.json",
+    "\\FindMyMouse\\settings.json",
+    "\\Hosts\\settings.json",
+    "\\Image Resizer\\image-resizer-settings.json",
+    "\\Image Resizer\\settings.json",
+    "\\Keyboard Manager\\settings.json",
+    "\\Measure Tool\\settings.json",
+    "\\MouseHighlighter\\settings.json",
+    "\\MousePointerCrosshairs\\settings.json",
+    "\\PastePlain\\settings.json",
+    "\\PowerRename\\power-rename-settings.json",
+    "\\PowerToys Run\\settings.json",
+    "\\QuickAccent\\settings.json",
+    "\\Registry Preview\\Registry Preview_settings.json",
+    "\\Shortcut Guide\\settings.json",
+    "\\TextExtractor\\settings.json",
+    "\\Video Conference\\settings.json"
+  ]
+}

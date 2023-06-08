@@ -1,0 +1,14 @@
+{
+  "name": "Peek",
+  "properties": {
+    "ActivationShortcut": {
+      "win": false,
+      "ctrl": true,
+      "alt": false,
+      "shift": false,
+      "code": 32,
+      "key": ""
+    }
+  },
+  "version": "0.0.1"
+}

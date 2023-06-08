@@ -1,0 +1,11 @@
+{
+  "Enabled": true,
+  "ExtendedContextMenuOnly": false,
+  "MaxMRUSize": 10,
+  "MRUEnabled": true,
+  "PersistState": true,
+  "ReplaceText": ".btv",
+  "SearchText": ".mp3",
+  "ShowIcon": true,
+  "UseBoostLib": false
+}

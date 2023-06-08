@@ -1,0 +1,15 @@
+{
+  "name": "TextExtractor",
+  "properties": {
+    "ActivationShortcut": {
+      "win": true,
+      "ctrl": false,
+      "alt": false,
+      "shift": true,
+      "code": 84,
+      "key": ""
+    },
+    "PreferredLanguage": "\u65E5\u672C\u8A9E"
+  },
+  "version": "1.0"
+}

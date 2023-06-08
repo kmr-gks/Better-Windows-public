@@ -1,0 +1,210 @@
+{
+  "remapKeys": {
+    "inProcess": [
+      {
+        "originalKeys": "56",
+        "newRemapKeys": "160;56"
+      },
+      {
+        "originalKeys": "120",
+        "newRemapKeys": "161;221"
+      },
+      {
+        "originalKeys": "112",
+        "newRemapKeys": "162;90"
+      },
+      {
+        "originalKeys": "122",
+        "newRemapKeys": "161;190"
+      },
+      {
+        "originalKeys": "50",
+        "newRemapKeys": "160;50"
+      },
+      {
+        "originalKeys": "114",
+        "newRemapKeys": "162;67"
+      },
+      {
+        "originalKeys": "115",
+        "newRemapKeys": "162;86"
+      },
+      {
+        "originalKeys": "51",
+        "newRemapKeys": "160;51"
+      },
+      {
+        "originalKeys": "117",
+        "newRemapKeys": "162;88"
+      },
+      {
+        "originalKeys": "53",
+        "newRemapKeys": "160;53"
+      },
+      {
+        "originalKeys": "181",
+        "newRemapKeys": "190"
+      },
+      {
+        "originalKeys": "119",
+        "newRemapKeys": "161;219"
+      },
+      {
+        "originalKeys": "55",
+        "newRemapKeys": "160;55"
+      },
+      {
+        "originalKeys": "121",
+        "newRemapKeys": "161;188"
+      },
+      {
+        "originalKeys": "57",
+        "newRemapKeys": "161;57"
+      },
+      {
+        "originalKeys": "123",
+        "newRemapKeys": "161;189"
+      },
+      {
+        "originalKeys": "49",
+        "newRemapKeys": "160;49"
+      },
+      {
+        "originalKeys": "52",
+        "newRemapKeys": "160;52"
+      },
+      {
+        "originalKeys": "180",
+        "newRemapKeys": "48"
+      },
+      {
+        "originalKeys": "54",
+        "newRemapKeys": "160;54"
+      },
+      {
+        "originalKeys": "191",
+        "newRemapKeys": "161;191"
+      },
+      {
+        "originalKeys": "226",
+        "newRemapKeys": "161;226"
+      },
+      {
+        "originalKeys": "144",
+        "newRemapKeys": "8"
+      },
+      {
+        "originalKeys": "45",
+        "newRemapKeys": "8"
+      },
+      {
+        "originalKeys": "166",
+        "newRemapKeys": "49"
+      },
+      {
+        "originalKeys": "171",
+        "newRemapKeys": "50"
+      },
+      {
+        "originalKeys": "167",
+        "newRemapKeys": "51"
+      },
+      {
+        "originalKeys": "172",
+        "newRemapKeys": "52"
+      },
+      {
+        "originalKeys": "168",
+        "newRemapKeys": "53"
+      },
+      {
+        "originalKeys": "170",
+        "newRemapKeys": "54"
+      },
+      {
+        "originalKeys": "169",
+        "newRemapKeys": "55"
+      },
+      {
+        "originalKeys": "3",
+        "newRemapKeys": "56"
+      },
+      {
+        "originalKeys": "92",
+        "newRemapKeys": "57"
+      }
+    ]
+  },
+  "remapShortcuts": {
+    "global": [
+      {
+        "originalKeys": "16;125",
+        "newRemapKeys": "20"
+      },
+      {
+        "originalKeys": "162;33",
+        "newRemapKeys": "123"
+      },
+      {
+        "originalKeys": "162;35",
+        "newRemapKeys": "122"
+      },
+      {
+        "originalKeys": "162;36",
+        "newRemapKeys": "121"
+      },
+      {
+        "originalKeys": "162;97",
+        "newRemapKeys": "112"
+      },
+      {
+        "originalKeys": "162;98",
+        "newRemapKeys": "113"
+      },
+      {
+        "originalKeys": "162;99",
+        "newRemapKeys": "114"
+      },
+      {
+        "originalKeys": "162;100",
+        "newRemapKeys": "115"
+      },
+      {
+        "originalKeys": "162;101",
+        "newRemapKeys": "116"
+      },
+      {
+        "originalKeys": "162;102",
+        "newRemapKeys": "117"
+      },
+      {
+        "originalKeys": "162;103",
+        "newRemapKeys": "118"
+      },
+      {
+        "originalKeys": "162;104",
+        "newRemapKeys": "119"
+      },
+      {
+        "originalKeys": "162;105",
+        "newRemapKeys": "120"
+      },
+      {
+        "originalKeys": "17;8",
+        "newRemapKeys": "144"
+      }
+    ],
+    "appSpecific": [
+      {
+        "originalKeys": "16;55",
+        "newRemapKeys": "55",
+        "targetApp": "fortniteclient-win64-shipping.exe"
+      },
+      {
+        "originalKeys": "17;66",
+        "newRemapKeys": "16;121",
+        "targetApp": "studio64.exe"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": "ColorPicker",
+  "properties": {
+    "ActivationShortcut": {
+      "win": true,
+      "ctrl": false,
+      "alt": false,
+      "shift": true,
+      "code": 67,
+      "key": ""
+    },
+    "changecursor": {
+      "value": false
+    },
+    "copiedcolorrepresentation": "HEX",
+    "activationaction": 1,
+    "colorhistory": [
+      "255|255|255|255",
+      "255|61|70|83",
+      "255|250|250|250",
+      "255|0|0|0",
+      "255|252|252|252",
+      "255|204|204|204",
+      "255|172|172|172",
+      "255|229|229|229"
+    ],
+    "colorhistorylimit": 20,
+    "visiblecolorformats": {
+      "HEX": {
+        "Key": true,
+        "Value": "%Rex%Grx%Blx"
+      },
+      "RGB": {
+        "Key": true,
+        "Value": "rgb(%Re, %Gr, %Bl)"
+      },
+      "HSL": {
+        "Key": true,
+        "Value": "hsl(%Hu, %Sl%, %Ll%)"
+      },
+      "HSV": {
+        "Key": false,
+        "Value": "hsv(%Hu, %Sb%, %Va%)"
+      },
+      "CMYK": {
+        "Key": false,
+        "Value": "cmyk(%Cy%, %Ma%, %Ye%, %Bk%)"
+      },
+      "HSB": {
+        "Key": false,
+        "Value": "hsb(%Hu, %Sb%, %Br%)"
+      },
+      "HSI": {
+        "Key": false,
+        "Value": "hsi(%Hu, %Si%, %In%)"
+      },
+      "HWB": {
+        "Key": false,
+        "Value": "hwb(%Hu, %Wh%, %Bn%)"
+      },
+      "NCol": {
+        "Key": false,
+        "Value": "%Hn, %Wh%, %Bn%"
+      },
+      "CIELAB": {
+        "Key": false,
+        "Value": "CIELab(%Lc, %Ca, %Cb)"
+      },
+      "CIEXYZ": {
+        "Key": false,
+        "Value": "XYZ(%Xv, %Yv, %Zv)"
+      },
+      "VEC4": {
+        "Key": false,
+        "Value": "(%Reff, %Grff, %Blff, 1f)"
+      },
+      "Decimal": {
+        "Key": false,
+        "Value": "%Dv"
+      },
+      "HEX Int": {
+        "Key": false,
+        "Value": "0xFF%ReX%GrX%BlX"
+      }
+    },
+    "showcolorname": {
+      "value": false
+    }
+  },
+  "version": "1.0"
+}
